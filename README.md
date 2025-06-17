@@ -63,7 +63,7 @@ life-expectancy-prediction/ ├── Life Expectancy Data.csv ├── life_ex
 
 ---
 
-## 📜 License
+##  License
 
  MIT
 
