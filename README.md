@@ -63,8 +63,6 @@ life-expectancy-prediction/ ├── Life Expectancy Data.csv ├── life_ex
 
 ---
 
-## 👤 Author
-
 **Duncan Kibet**  
 PhD Student, Big Data & Industrial Engineering  
 Chosun University
