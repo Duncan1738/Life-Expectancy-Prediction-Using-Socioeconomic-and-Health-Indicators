@@ -49,7 +49,7 @@ This project explores and predicts **life expectancy** using a range of socioeco
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 life-expectancy-prediction/ ├── Life Expectancy Data.csv ├── life_expectancy_model.ipynb ├── README.md ├── requirements.txt (optional) └── life_expectancy_xgb_model.pkl (optional, saved model)
 
 
