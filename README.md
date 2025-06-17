@@ -4,7 +4,7 @@ This project explores and predicts **life expectancy** using a range of socioeco
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Perform data cleaning and preprocessing on the WHO Life Expectancy dataset
 - Explore patterns using visualizations and correlations
