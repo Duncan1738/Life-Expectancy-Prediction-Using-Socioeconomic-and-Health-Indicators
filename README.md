@@ -14,7 +14,7 @@ This project explores and predicts **life expectancy** using a range of socioeco
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: [WHO via Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - **Features** include:
