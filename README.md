@@ -55,7 +55,7 @@ life-expectancy-prediction/ ├── Life Expectancy Data.csv ├── life_ex
 
 ---
 
-## 🧠 Future Work
+## Future Work
 
 - Incorporate geospatial analysis and choropleth maps
 - Add interactive dashboards (Plotly Dash or Streamlit)
