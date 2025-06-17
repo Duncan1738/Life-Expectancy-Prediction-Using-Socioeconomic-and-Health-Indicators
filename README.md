@@ -29,7 +29,7 @@ This project explores and predicts **life expectancy** using a range of socioeco
 
 ---
 
-## 🧪 Methods
+##  Methods
 
 | Task                     | Tools/Techniques                          |
 |--------------------------|-------------------------------------------|
