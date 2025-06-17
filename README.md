@@ -1,4 +1,4 @@
- 📘 Life Expectancy Prediction Using Socioeconomic and Health Indicators
+  Life Expectancy Prediction Using Socioeconomic and Health Indicators
 
 This project explores and predicts **life expectancy** using a range of socioeconomic and health-related indicators from the **World Health Organization (WHO)** dataset. It applies data analysis, feature selection, machine learning, and explainability techniques to identify key factors influencing life expectancy across countries.
 
