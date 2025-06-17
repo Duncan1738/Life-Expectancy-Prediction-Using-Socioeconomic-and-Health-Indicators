@@ -41,7 +41,7 @@ This project explores and predicts **life expectancy** using a range of socioeco
 
 ---
 
-## 🔬 Key Insights
+##  Key Insights
 
 - Countries with higher schooling, health expenditure, and immunization coverage tend to have higher life expectancy.
 - HIV/AIDS prevalence, adult mortality, and thinness are negatively correlated.
