@@ -65,7 +65,7 @@ life-expectancy-prediction/ ├── Life Expectancy Data.csv ├── life_ex
 
 ## 📜 License
 
- MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+ MIT
 
 
 ---
