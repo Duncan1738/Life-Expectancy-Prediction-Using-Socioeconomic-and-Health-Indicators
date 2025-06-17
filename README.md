@@ -63,15 +63,10 @@ life-expectancy-prediction/ ├── Life Expectancy Data.csv ├── life_ex
 
 ---
 
-**Duncan Kibet**  
-PhD Student, Big Data & Industrial Engineering  
-Chosun University
-
----
-
 ## 📜 License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ---
 
